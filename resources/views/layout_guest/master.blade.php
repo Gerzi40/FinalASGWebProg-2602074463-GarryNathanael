@@ -16,7 +16,7 @@
             min-height: 100vh;
         }
         .content {
-            flex: 1; /* This pushes the footer to the bottom */
+            flex: 1;
         }
         .navbar {
             padding: 0.5rem 1rem;

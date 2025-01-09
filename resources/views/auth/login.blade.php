@@ -33,47 +33,46 @@
 @endsection
 
 <style>
-  /* Form Box Styling */
 .form-box {
-    background-color: #ffffff; /* White background */
-    border: 2px solid #90caf9; /* Light blue border */
-    border-radius: 8px; /* Rounded corners */
-    width: 100%; /* Full width */
-    max-width: 500px; /* Limit the width */
+    background-color: #ffffff;
+    border: 2px solid #90caf9;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 500px;
 }
 
 .form-label {
-    color: #1976d2; /* Blue color for labels */
+    color: #1976d2;
 }
 
 .form-control {
-    border-color: #1976d2; /* Blue border for input fields */
-    box-shadow: 0 0 5px rgba(25, 118, 210, 0.3); /* Slight shadow effect */
+    border-color: #1976d2;
+    box-shadow: 0 0 5px rgba(25, 118, 210, 0.3);
 }
 
 .form-control:focus {
-    border-color: #1565c0; /* Darker blue when the field is focused */
-    box-shadow: 0 0 5px rgba(21, 101, 192, 0.6); /* Shadow effect when focused */
+    border-color: #1565c0;
+    box-shadow: 0 0 5px rgba(21, 101, 192, 0.6);
 }
 
 .btn-primary {
-    background-color: #1976d2; /* Blue background for the button */
-    border-color: #1565c0; /* Darker blue border for the button */
+    background-color: #1976d2;
+    border-color: #1565c0;
 }
 
 .btn-primary:hover {
-    background-color: #1565c0; /* Darker blue on hover */
-    border-color: #0d47a1; /* Even darker blue on hover */
+    background-color: #1565c0;
+    border-color: #0d47a1;
 }
 
 .text-danger {
-    color: #d32f2f; /* Red color for error messages */
+    color: #d32f2f;
 }
 
 .alert-danger {
-    background-color: #f8d7da; /* Light red background for alert */
-    color: #842029; /* Dark red text for alert */
-    border: 1px solid #f5c2c7; /* Light red border for alert */
+    background-color: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
 }
 
 </style>
